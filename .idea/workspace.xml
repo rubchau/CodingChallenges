@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fkjRIx0cP2sJjnBr410HXIzyDO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="" />
+      <created>1596768974512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596768974512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="53" width="906" height="669" key="#Project_Structure" timestamp="1596769115806">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="268" y="53" width="906" height="669" key="#Project_Structure/0.23.1280.729@0.23.1280.729" timestamp="1596769115806" />
+    <state x="132" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596769257119">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="132" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729@0.23.1280.729" timestamp="1596769257119" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1596833568172">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1596768979305" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596833568172" />
+    <state x="380" y="288" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596835949683">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="380" y="288" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596835949683" />
+    <state x="447" y="121" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596836074521">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="447" y="121" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596836074521" />
+  </component>
+</project>
