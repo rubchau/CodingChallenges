@@ -1,4 +1,4 @@
-package CompanyAssessments;
+package Assessments;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
