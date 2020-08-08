@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="" />
+    <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HR_Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Warmup.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +16,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -24,6 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1fkjRIx0cP2sJjnBr410HXIzyDO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +47,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -76,6 +89,10 @@
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="132" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729@0.23.1280.729" timestamp="1596769257119" />
+    <state x="406" y="141" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596858295868">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="406" y="141" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596858295868" />
     <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1596833568172">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

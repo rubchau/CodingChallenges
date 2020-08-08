@@ -5,14 +5,15 @@ import java.util.Map;
 *
 * This class shows solutions to the HackerRank Warmup
 * Challenges from the "Interview Preparation Kit"
-* challenge set, found [here](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
+* challenge set, found here:
+* https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
 *
 * @author Ruby Chauhan
 * @since 2020-06-02
 *
  */
 
-public class HR_Warmup {
+public class HackerRank_Warmup {
 
     /**
      * "Sock Merchant"
