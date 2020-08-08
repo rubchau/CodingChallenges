@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HR_Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Warmup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +90,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="406" y="141" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596858295868" />
-    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1596833568172">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="347" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1596907537365">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
+    <state x="347" y="208" key="com.intellij.ide.util.TipDialog/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1596907537365" />
     <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1596768979305" />
     <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596833568172" />
     <state x="380" y="288" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596835949683">
