@@ -229,9 +229,38 @@ public class HackerRank_Arrays {
      * @return int maximum value in resulting array, after all operations applied
      */
     static long arrayManipulation(int n, int[][] queries) {
+        // Algorithm:
+        // 1) Iterate over all n queries, O(n)
+        // 2) Add k to (a - 1) and subtract k from b, O(1).
+        // We use add at (a-1) and subtract at b to capture
+        // the fact that k is added from (a - 1) to (b - 1);
+        // decrement k at b so that the max is found correctly.
+        // 3) Iterate through ARR, O(m), and keep a running sum
+        // and max marker which checks if the current sum is larger
+        // that the last recorded max, update max if it is.
+        // Total time complexity:
+        // O(n) + O(1) + O(m) = O(n + m)
 
-        return 0;
+        long[] arr = new long[n + 1];
+        long maxSeen = Long.MIN_VALUE;
+        long sum = 0;
+
+        for (int[] query : queries) {
+            assert (query.length == 3);
+            int a = query[0];
+            int b = query[1];
+            int k = query[2];
+            arr[a - 1] += k;
+            arr[b] -= k;
+        }
+
+        for (int i = 0; i < n; i++) {
+            sum += arr[i];
+            if (sum > maxSeen) {
+                maxSeen = sum;
+            }
+        }
+
+        return maxSeen;
     }
-
-
 }
