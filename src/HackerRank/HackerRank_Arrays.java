@@ -17,6 +17,7 @@ public class HackerRank_Arrays {
 
     /**
      * "2D Array - DS"
+     * Level: Easy
      * Given a 6 x 6 2D Array, arr:
      *      1 1 1 0 0 0
      *      0 1 0 0 0 0
@@ -71,6 +72,7 @@ public class HackerRank_Arrays {
 
     /**
      * "Left Rotation"
+     * Level: Easy
      * A left rotation operation on an array shifts each of the array's
      * elements 1 unit to the left. For example, if 2 left rotations are
      * on performed on the array : [1, 2, 3, 4, 5], the the array would
@@ -97,6 +99,7 @@ public class HackerRank_Arrays {
 
     /**
      * "New Year Chaos"
+     * Level: Medium
      * It's New Year's Day and everyone's in line for the Wonderland rollercoaster
      * ride! There are a number of people queued up, and each person wears a sticker
      * indicating their initial position in the queue. Initial positions increment
@@ -154,6 +157,7 @@ public class HackerRank_Arrays {
 
     /**
      * "Minimum Swaps 2"
+     * Level: Medium
      * You are given an unordered array consisting of consecutive integers in
      * the set [1, 2, 3, ..., n] without any duplicates. You are allowed to swap
      * any two elements. You need to find the minimum number of swaps required to
@@ -206,6 +210,8 @@ public class HackerRank_Arrays {
     }
 
     /**
+     * "Array Manipulation"
+     * Level: Hard
      * Starting with a 1-indexed array of zeros and a list of operations,
      * for each operation add a value to each of the array element between
      * two given indices, inclusive. Once all operations have been performed,

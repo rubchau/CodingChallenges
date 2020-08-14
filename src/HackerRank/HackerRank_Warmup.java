@@ -19,6 +19,7 @@ public class HackerRank_Warmup {
 
     /**
      * "Sock Merchant"
+     * Level: Easy
      * A large pile of socks must be matched by color.
      * Given an array of integers representing the color of each sock,
      * determine how many pairs of socks with matching colors there are.
@@ -51,6 +52,7 @@ public class HackerRank_Warmup {
 
     /**
      * "Counting Valleys"
+     * Level: Easy
      * Gary is an avid hiker. He tracks his hikes meticulously, paying close attention
      * to small details like topography. During his last hike he took exactly n steps.
      * For every step he took, he noted if it was an uphill, U, or a downhill, D step.
@@ -87,6 +89,7 @@ public class HackerRank_Warmup {
 
     /**
      * "Jumping on Clouds"
+     * Level: Easy
      * Description: Emma is playing a new mobile game that starts with consecutively
      * numbered clouds. Some of the clouds are thunderheads and others are cumulus.
      * She can jump on any cumulus cloud having a number that is equal to the number
@@ -122,6 +125,7 @@ public class HackerRank_Warmup {
 
     /**
      * "Repeated String"
+     * Level: Easy
      * Description: Lilah has a string, s, of lowercase English letters that
      * she repeated infinitely many times. Given an integer, n, find and print
      * the number of letter "a" in the first n letters of Lilah's infinite

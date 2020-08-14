@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_HashTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/HackerRank_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/HackerRank_Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_Warmup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,54 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.testHashTables">
+    <configuration name="testCodeSignalGeneral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assessments.testCodeSignalGeneral" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assessments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testHashTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.testHashTables" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assessments.testTree" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assessments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testHashTables" />
+        <item itemvalue="Application.testCodeSignalGeneral" />
+        <item itemvalue="Application.testTree" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -90,11 +140,35 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="406" y="141" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596858295868" />
-    <state x="347" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1596907537365">
+    <state width="1102" height="174" key="GridCell.Tab.0.bottom" timestamp="1597371075771">
+      <screen x="0" y="-777" width="1280" height="777" />
+    </state>
+    <state width="1102" height="174" key="GridCell.Tab.0.bottom/0.23.1280.729/0.-777.1280.777@0.-777.1280.777" timestamp="1597371075771" />
+    <state width="1102" height="174" key="GridCell.Tab.0.bottom/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597297897634" />
+    <state width="1102" height="174" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1597368468975" />
+    <state width="1102" height="174" key="GridCell.Tab.0.center" timestamp="1597371075770">
+      <screen x="0" y="-777" width="1280" height="777" />
+    </state>
+    <state width="1102" height="174" key="GridCell.Tab.0.center/0.23.1280.729/0.-777.1280.777@0.-777.1280.777" timestamp="1597371075770" />
+    <state width="1102" height="174" key="GridCell.Tab.0.center/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597297897631" />
+    <state width="1102" height="174" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1597368468973" />
+    <state width="1102" height="174" key="GridCell.Tab.0.left" timestamp="1597371075769">
+      <screen x="0" y="-777" width="1280" height="777" />
+    </state>
+    <state width="1102" height="174" key="GridCell.Tab.0.left/0.23.1280.729/0.-777.1280.777@0.-777.1280.777" timestamp="1597371075769" />
+    <state width="1102" height="174" key="GridCell.Tab.0.left/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597297897630" />
+    <state width="1102" height="174" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1597368468972" />
+    <state width="1102" height="174" key="GridCell.Tab.0.right" timestamp="1597371075770">
+      <screen x="0" y="-777" width="1280" height="777" />
+    </state>
+    <state width="1102" height="174" key="GridCell.Tab.0.right/0.23.1280.729/0.-777.1280.777@0.-777.1280.777" timestamp="1597371075770" />
+    <state width="1102" height="174" key="GridCell.Tab.0.right/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597297897633" />
+    <state width="1102" height="174" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1597368468974" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1597368337692">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state x="347" y="208" key="com.intellij.ide.util.TipDialog/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1596907537365" />
-    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1596768979305" />
+    <state x="347" y="208" key="com.intellij.ide.util.TipDialog/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597248528670" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1597368337692" />
     <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596833568172" />
     <state x="380" y="288" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596835949683">
       <screen x="0" y="23" width="1280" height="777" />
@@ -104,5 +178,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="447" y="121" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.777/0.-777.1280.777@0.23.1280.777" timestamp="1596836074521" />
+    <state x="332" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1597295158545">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="332" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.729/0.-777.1280.777@0.23.1280.729" timestamp="1597295158545" />
   </component>
 </project>
