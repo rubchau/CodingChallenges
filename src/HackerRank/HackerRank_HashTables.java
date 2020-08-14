@@ -142,42 +142,18 @@ public class HackerRank_HashTables {
         for (Map.Entry<Integer, ArrayList<String>> e : lengthofSubs.entrySet()) {
             // Get all substrings of length n
             ArrayList<String> arr = e.getValue();
-            // For each ith element of ARR, create a HashMap mapping the characters
-            // of i to the char frequency, then iterate over each element in ARR
-            // after i to check if its chars match those in the charMap of i
+            // For each ith element of ARR, sort its elements (natural sort)
             for (int i = 0; i < arr.size() - 1; i++) {
-                String current = arr.get(i);
-                HashMap<Character, Integer> charMap = new HashMap<>();
+                char[] current = arr.get(i).toCharArray();
+                Arrays.sort(current);
 
-                for (Character ch : current.toCharArray()) {
-                    int charCount = charMap.getOrDefault(ch, 0);
-                    charMap.put(ch, charCount + 1);
-                }
-
-
+                // For each element j, beyond i in ARR, sort its elements
+                // and compare to sorted i
                 for (int j = i + 1; j < arr.size(); j++) {
-                    boolean toAdd = true;
-                    // Create charMap of characters in the jth element of ARR
-                    HashMap<Character, Integer> secondMap = new HashMap<>();
-                    for (Character ch : arr.get(j).toCharArray()) {
-                        int charCount = secondMap.getOrDefault(ch, 0);
-                        secondMap.put(ch, charCount + 1);
-                    }
+                    char[] toConsider = arr.get(j).toCharArray();
+                    Arrays.sort(toConsider);
 
-                    for (Character ch : arr.get(j).toCharArray()) {
-                        int charCount = charMap.getOrDefault(ch, 0);
-                        int charCountSecond = secondMap.getOrDefault(ch, 0);
-                        if (!charMap.containsKey(ch)) {
-                            toAdd = false;
-                        }
-                        else {
-                            if (charCount != charCountSecond) {
-                                toAdd = false;
-                            }
-                        }
-                    }
-
-                    if (toAdd) {
+                    if (Arrays.equals(current, toConsider)) {
                         count++;
                     }
                 }

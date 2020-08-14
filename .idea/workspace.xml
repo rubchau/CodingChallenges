@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec72b62b-c7d1-48a2-a483-755b5027d9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_HashTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/HackerRank_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HackerRank/HackerRank_Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_Warmup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank/HackerRank_HashTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank/HackerRank_HashTables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
